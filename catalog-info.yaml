@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-aws-vpc
+  annotations:
+    github.com/project-slug: ybai5github/terraform-aws-vpc
+spec:
+  type: other
+  lifecycle: unknown
+  owner: ybai5github
