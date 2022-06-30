@@ -3,7 +3,8 @@ kind: Component
 metadata:
   name: terraform-aws-vpc
   annotations:
-    github.com/project-slug: ybai5github/terraform-aws-vpc
+    backstage.io/techdocs-ref: value
+    #github.com/project-slug: ybai5github/terraform-aws-vpc
 spec:
   type: other
   lifecycle: unknown
